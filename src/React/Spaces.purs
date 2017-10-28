@@ -12,6 +12,7 @@ module React.Spaces
   , text
   , empty
   , element
+  , element'
   , elements
   , children
   , rDOMNode
